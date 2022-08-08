@@ -1,3 +1,6 @@
 [submodule "applications/graph"]
 	path = applications/graph
 	url = https://github.com/jren73/bfs_simd_benchmarks.git
+[submodule "applications/spark/applications/spark/spark-terasort"]
+	path = applications/spark/applications/spark/spark-terasort
+	url = https://github.com/ehiggs/spark-terasort.git
