@@ -1,0 +1,3 @@
+[submodule "applications/graph"]
+	path = applications/graph
+	url = https://github.com/jren73/bfs_simd_benchmarks.git
