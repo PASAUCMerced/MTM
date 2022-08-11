@@ -4,3 +4,9 @@
 [submodule "applications/spark/applications/spark/spark-terasort"]
 	path = applications/spark/applications/spark/spark-terasort
 	url = https://github.com/ehiggs/spark-terasort.git
+[submodule "linux"]
+	path = linux
+	url = https://github.com/torvalds/linux.git
+[submodule "src/linux"]
+	path = src/linux
+	url = https://github.com/torvalds/linux.git
